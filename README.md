@@ -15,8 +15,12 @@ bash <(wget --no-check-certificate -qO- https://github.com/nkxingxh/LotServer/ra
 ## 完全卸载
 
 ```
-bash <(wget --no-check-certificate -qO- https://github.com/nkxingxh/LotServer/raw/master/Install.sh) uninstall
+bash <(wget --no-check-certificate -qO- https://github.com/nkxingxh/LotServer/raw/master/Install.sh) uninstallhttp://download.appexnetworks.com.cn/ls.do?m=availables
 ```
+
+## 支持内核
+
+http://download.appexnetworks.com.cn/ls.do?m=availables
 
 ## 调教手册
 
